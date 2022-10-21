@@ -12,4 +12,9 @@ func main() {
 		This is basic concurrency concept
 	*/
 	basic()
+
+	/*
+		This is wait group concurrency concept
+	*/
+	group()
 }
